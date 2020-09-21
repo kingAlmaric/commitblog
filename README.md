@@ -1,1 +1,3 @@
 # commitblog
+
+BLOG
