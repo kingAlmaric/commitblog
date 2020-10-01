@@ -1,3 +1,0 @@
-# commitblog
-
-BLOG
